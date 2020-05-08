@@ -2,4 +2,4 @@
 
 Run the file using python 3.6 above versions
 
-Turtle and Tkinter should be installed before running it>
+Turtle and Tkinter should be installed before running it.
